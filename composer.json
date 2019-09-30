@@ -1,0 +1,29 @@
+{
+    "name": "hypejunction/vue-boot",
+    "version": "1.0.0",
+    "type": "elgg-plugin",
+    "description": "Vue bootstrap for Elgg",
+    "homepage": "http://hypejunction.com",
+    "keywords": [
+        "elgg",
+        "plugin",
+        "vue"
+    ],
+    "license": "GPL-2.0",
+    "authors": [
+        {
+            "name": "Ismayil Khayredinov",
+            "email": "info@hypejunction.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0",
+        "composer/installers": "~1.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "": "classes/"
+        }
+    }
+}
+
