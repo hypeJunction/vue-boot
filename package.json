@@ -32,6 +32,6 @@
         "grunt-gh-release": "^0.0.2",
         "grunt-git": "^1.0.9",
         "grunt-version": "^1.2.1",
-        "underscore": "^1.8.3"
+        "underscore": "^1.12.1"
     }
 }
